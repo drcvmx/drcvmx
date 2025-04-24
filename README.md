@@ -1,8 +1,8 @@
-### Hi there 👋 I'm [[Dante!](https://github.com/drcvmx))]
+### Hi there 👋 I'm [[Dante!](https://github.com/drcvmx)]
 
-## I'm a Associate Software Engineer at Acentura
+## I'm a computer engineer passionate about frontend development
 
-- 👨‍💻 I'm a computer engineer currently working on web projects.
+- 👨‍💻 Currently working on web projects.
 - 😅 I'm learning everything I can about both frontend and backend technologies.
 - 💪🏼 My goals are to master new technologies and never stop creating new ideas.
 
