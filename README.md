@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [[Dante!](https://github.com/Danushka2/Danushka2/](https://github.com/drcvmx))
+### Hi there 👋 I'm [[Dante!](https://github.com/drcvmx))
 
 ## I'm a Associate Software Engineer at Acentura
 
