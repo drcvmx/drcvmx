@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working on web projects.
 - 😅 I'm learning everything I can about both frontend and backend technologies.
-- 💪🏼 My goals are to master new technologies and never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
 
