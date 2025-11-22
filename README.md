@@ -1,6 +1,6 @@
 ### Hola, soy [[Dante Chávez!](https://github.com/drcvmx)] 👋
 
-## Desarrollador Full-Stack | Especialista en Arquitectura y Operaciones Cloud
+## Desarrollador Full-Stack | Con experiwncia en Arquitectura y Operaciones Cloud
 
 Soy **Ingeniero en Computación** con sólida experiencia en la creación de soluciones **Full-stack** y el manejo de infraestructura **Linux**. He participado en **múltiples proyectos** complejos para empresas (Sozu, Fyttsa) y en el desarrollo de arquitecturas propias, demostrando versatilidad tecnológica.
 
